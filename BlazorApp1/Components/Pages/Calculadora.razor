@@ -1,0 +1,27 @@
+@page "/calculadora"
+@rendermode InteractiveServer
+
+<h3>Calculadora de Sumas</h3>
+
+<div class="container mt-3">
+    <label>Primer número:</label>
+    <input type="number" @bind-value="numero1" @bind-value:event="oninput" class="form-control" />
+
+    <label>Segundo número:</label>
+    <input type="number" @bind-value="numero2" @bind-value:event="oninput" class="form-control" />
+
+    <button class="btn btn-primary mt-3" @onclick="Sumar">Sumar</button>
+
+    <h4 class="mt-3">Resultado: @resultado</h4>
+</div>
+
+@code {
+    private double numero1;
+    private double numero2;
+    private double resultado;
+
+    private void Sumar()
+    {
+        resultado = numero1 + numero2;
+    }
+}

@@ -1,0 +1,5 @@
+C:\Users\Estudiante\Downloads\pruebas\BlazorApp1\obj\Debug\net8.0\BlazorApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Downloads\pruebas\BlazorApp1\obj\Debug\net8.0\BlazorApp1.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Downloads\pruebas\BlazorApp1\obj\Debug\net8.0\BlazorApp1.AssemblyInfo.cs
+C:\Users\Estudiante\Downloads\pruebas\BlazorApp1\obj\Debug\net8.0\BlazorApp1.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Downloads\pruebas\BlazorApp1\obj\Debug\net8.0\BlazorApp1.MvcApplicationPartsAssemblyInfo.cache

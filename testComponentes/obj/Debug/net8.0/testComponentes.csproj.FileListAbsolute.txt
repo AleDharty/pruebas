@@ -1,0 +1,9 @@
+C:\Users\Estudiante\Downloads\pruebas\testComponentes\obj\Debug\net8.0\testComponentes.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Downloads\pruebas\testComponentes\obj\Debug\net8.0\testComponentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Downloads\pruebas\testComponentes\obj\Debug\net8.0\testComponentes.gentestingplatformentrypointinputcache.cache
+C:\Users\Estudiante\Downloads\pruebas\testComponentes\obj\Debug\net8.0\MicrosoftTestingPlatformEntryPoint.cs
+C:\Users\Estudiante\Downloads\pruebas\testComponentes\obj\Debug\net8.0\testComponentes.genautoregisteredextensionsinputcache.cache
+C:\Users\Estudiante\Downloads\pruebas\testComponentes\obj\Debug\net8.0\SelfRegisteredExtensions.cs
+C:\Users\Estudiante\Downloads\pruebas\testComponentes\obj\Debug\net8.0\testComponentes.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Downloads\pruebas\testComponentes\obj\Debug\net8.0\testComponentes.AssemblyInfo.cs
+C:\Users\Estudiante\Downloads\pruebas\testComponentes\obj\Debug\net8.0\testComponentes.csproj.CoreCompileInputs.cache
